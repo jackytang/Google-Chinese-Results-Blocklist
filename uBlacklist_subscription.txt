@@ -425,6 +425,7 @@
 *://*.cqxhfgz.com/*
 *://*.cscec7bjt.com/*
 *://*.csdn.com/*
+*://*.csdn.net/*
 *://*.ctcea.org/*
 *://*.ctocio.com.cn/*
 *://*.ctyyn.com/*
