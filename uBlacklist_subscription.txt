@@ -424,6 +424,7 @@
 *://*.cqsscai3188.com/*
 *://*.cqxhfgz.com/*
 *://*.cscec7bjt.com/*
+*://*.csdn.com/*
 *://*.ctcea.org/*
 *://*.ctocio.com.cn/*
 *://*.ctyyn.com/*
