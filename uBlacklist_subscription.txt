@@ -426,6 +426,8 @@
 *://*.cscec7bjt.com/*
 *://*.csdn.com/*
 *://*.csdn.net/*
+*://*.toutiao.com/*
+*://*.douyin.com/*
 *://*.ctcea.org/*
 *://*.ctocio.com.cn/*
 *://*.ctyyn.com/*
